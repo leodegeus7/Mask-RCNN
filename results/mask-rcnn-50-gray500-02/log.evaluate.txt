@@ -1,0 +1,263 @@
+
+--- [START 2018-03-10_19-00-34] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = /home/ubuntu/20180306/build/mask-rcnn-resnet50-ver-01.a
+	out_dir      = /home/ubuntu/20180306/results/mask-rcnn-50-gray500-02
+
+	initial_checkpoint = /home/ubuntu/20180306/results/mask-rcnn-50-gray500-02/checkpoint/00016500_model.pth
+
+--- [START 2018-03-10_19-08-30] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = /home/ubuntu/20180306/build/mask-rcnn-resnet50-ver-01.a
+	out_dir      = /home/ubuntu/20180306/results/mask-rcnn-50-gray500-02
+
+	initial_checkpoint = /home/ubuntu/20180306/results/mask-rcnn-50-gray500-02/checkpoint/00016500_model.pth
+<class 'net.resnet50_mask_rcnn.model.MaskRcnnNet'>
+
+
+** dataset setting **
+	test_dataset.split = test1_ids_gray2_53
+	len(test_dataset)  = 53
+
+** start evaluation here! **
+
+--- [START 2018-03-10_19-08-54] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = /home/ubuntu/20180306/build/mask-rcnn-resnet50-ver-01.a
+	out_dir      = /home/ubuntu/20180306/results/mask-rcnn-50-gray500-02
+
+	initial_checkpoint = /home/ubuntu/20180306/results/mask-rcnn-50-gray500-02/checkpoint/00016500_model.pth
+<class 'net.resnet50_mask_rcnn.model.MaskRcnnNet'>
+
+
+** dataset setting **
+	test_dataset.split = test1_ids_gray2_53
+	len(test_dataset)  = 53
+
+** start evaluation here! **
+
+--- [START 2018-03-10_19-11-16] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = /home/ubuntu/20180306/build/mask-rcnn-resnet50-ver-01.a
+	out_dir      = /home/ubuntu/20180306/results/mask-rcnn-50-gray500-02
+
+	initial_checkpoint = /home/ubuntu/20180306/results/mask-rcnn-50-gray500-02/checkpoint/00016500_model.pth
+<class 'net.resnet50_mask_rcnn.model.MaskRcnnNet'>
+
+
+** dataset setting **
+	test_dataset.split = test1_ids_gray2_53
+	len(test_dataset)  = 53
+
+** start evaluation here! **
+initial_checkpoint  = /home/ubuntu/20180306/results/mask-rcnn-50-gray500-02/checkpoint/00016500_model.pth
+test_num  = 53
+
+
+--- [START 2018-03-10_19-19-51] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = /home/ubuntu/20180306/build/mask-rcnn-resnet50-ver-01.a
+	out_dir      = /home/ubuntu/20180306/results/mask-rcnn-50-gray500-02
+
+	initial_checkpoint = /home/ubuntu/20180306/results/mask-rcnn-50-gray500-02/checkpoint/00016500_model.pth
+<class 'net.resnet50_mask_rcnn.model.MaskRcnnNet'>
+
+
+** dataset setting **
+	test_dataset.split = test1_ids_gray2_53
+	len(test_dataset)  = 53
+
+** start evaluation here! **
+initial_checkpoint  = /home/ubuntu/20180306/results/mask-rcnn-50-gray500-02/checkpoint/00016500_model.pth
+test_num  = 53
+
+
+--- [START 2018-03-10_19-22-47] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = /home/ubuntu/20180306/build/mask-rcnn-resnet50-ver-01.a
+	out_dir      = /home/ubuntu/20180306/results/mask-rcnn-50-gray500-02
+
+	initial_checkpoint = /home/ubuntu/20180306/results/mask-rcnn-50-gray500-02/checkpoint/00016500_model.pth
+<class 'net.resnet50_mask_rcnn.model.MaskRcnnNet'>
+
+
+** dataset setting **
+	test_dataset.split = test1_ids_gray2_53
+	len(test_dataset)  = 53
+
+** start evaluation here! **
+initial_checkpoint  = /home/ubuntu/20180306/results/mask-rcnn-50-gray500-02/checkpoint/00016500_model.pth
+test_num  = 53
+
+
+--- [START 2018-03-10_19-38-27] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = /home/ubuntu/20180306/build/mask-rcnn-resnet50-ver-01.a
+	out_dir      = /home/ubuntu/20180306/results/mask-rcnn-50-gray500-02
+
+	initial_checkpoint = /home/ubuntu/20180306/results/mask-rcnn-50-gray500-02/checkpoint/00016500_model.pth
+<class 'net.resnet50_mask_rcnn.model.MaskRcnnNet'>
+
+
+** dataset setting **
+	test_dataset.split = test1_ids_gray2_53
+	len(test_dataset)  = 53
+
+** start evaluation here! **
+initial_checkpoint  = /home/ubuntu/20180306/results/mask-rcnn-50-gray500-02/checkpoint/00016500_model.pth
+test_num  = 53
+
+
+--- [START 2018-03-10_19-42-18] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = /home/ubuntu/20180306/build/mask-rcnn-resnet50-ver-01.a
+	out_dir      = /home/ubuntu/20180306/results/mask-rcnn-50-gray500-02
+
+	initial_checkpoint = /home/ubuntu/20180306/results/mask-rcnn-50-gray500-02/checkpoint/00016500_model.pth
+<class 'net.resnet50_mask_rcnn.model.MaskRcnnNet'>
+
+
+** dataset setting **
+	test_dataset.split = test1_ids_gray2_53
+	len(test_dataset)  = 53
+
+** start evaluation here! **
+initial_checkpoint  = /home/ubuntu/20180306/results/mask-rcnn-50-gray500-02/checkpoint/00016500_model.pth
+test_num  = 53
+
+
+--- [START 2018-03-10_21-43-54] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = /home/ubuntu/20180306/build/mask-rcnn-resnet50-ver-01.a
+	out_dir      = /home/ubuntu/20180306/results/mask-rcnn-50-gray500-02
+
+	initial_checkpoint = /home/ubuntu/20180306/results/mask-rcnn-50-gray500-02/checkpoint/00001999_model.pth
+<class 'net.resnet50_mask_rcnn.model.MaskRcnnNet'>
+
+
+** dataset setting **
+	test_dataset.split = test1_ids_gray2_53
+	len(test_dataset)  = 53
+
+** start evaluation here! **
+
+--- [START 2018-03-10_21-46-01] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = /home/ubuntu/20180306/build/mask-rcnn-resnet50-ver-01.a
+	out_dir      = /home/ubuntu/20180306/results/mask-rcnn-50-gray500-02
+
+	initial_checkpoint = /home/ubuntu/20180306/results/mask-rcnn-50-gray500-02/checkpoint/00016500_model.pth
+<class 'net.resnet50_mask_rcnn.model.MaskRcnnNet'>
+
+
+** dataset setting **
+	test_dataset.split = test1_ids_gray2_53
+	len(test_dataset)  = 53
+
+** start evaluation here! **
+
+--- [START 2018-03-10_21-47-47] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = /home/ubuntu/20180306/build/mask-rcnn-resnet50-ver-01.a
+	out_dir      = /home/ubuntu/20180306/results/mask-rcnn-50-gray500-02
+
+	initial_checkpoint = /home/ubuntu/20180306/results/mask-rcnn-50-gray500-02/checkpoint/00001999_model.pth
+<class 'net.resnet50_mask_rcnn.model.MaskRcnnNet'>
+
+
+** dataset setting **
+	test_dataset.split = test1_ids_gray2_53
+	len(test_dataset)  = 53
+
+** start evaluation here! **
+
+--- [START 2018-03-10_22-59-40] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = /home/ubuntu/20180306/build/mask-rcnn-resnet50-ver-01.a
+	out_dir      = /home/ubuntu/20180306/results/mask-rcnn-50-gray500-02
+
+	initial_checkpoint = /home/ubuntu/20180306/results/mask-rcnn-50-gray500-02/checkpoint/00002000_model.pth
+<class 'net.resnet50_mask_rcnn.model.MaskRcnnNet'>
+
+
+** dataset setting **
+	test_dataset.split = test1_ids_gray2_53
+	len(test_dataset)  = 53
+
+** start evaluation here! **
+initial_checkpoint  = /home/ubuntu/20180306/results/mask-rcnn-50-gray500-02/checkpoint/00002000_model.pth
+test_num  = 53
+
+
+--- [START 2018-03-11_05-04-12] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = /home/ubuntu/20180306/build/mask-rcnn-resnet50-ver-01.a
+	out_dir      = /home/ubuntu/20180306/results/mask-rcnn-50-gray500-02
+
+	initial_checkpoint = /home/ubuntu/20180306/results/mask-rcnn-50-gray500-02/checkpoint/00012000_model.pth
+
+--- [START 2018-03-11_05-05-28] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = /home/ubuntu/20180306/build/mask-rcnn-resnet50-ver-01.a
+	out_dir      = /home/ubuntu/20180306/results/mask-rcnn-50-gray500-02
+
+	initial_checkpoint = /home/ubuntu/20180306/results/mask-rcnn-50-gray500-02/checkpoint/00011500_model.pth
+<class 'net.resnet50_mask_rcnn.model.MaskRcnnNet'>
+
+
+** dataset setting **
+	test_dataset.split = test1_ids_gray2_53
+	len(test_dataset)  = 53
+
+** start evaluation here! **
+initial_checkpoint  = /home/ubuntu/20180306/results/mask-rcnn-50-gray500-02/checkpoint/00011500_model.pth
+test_num  = 53
+
+
+--- [START 2018-03-11_22-50-55] ----------------------------------------------------------------
+
+** some experiment setting **
+	SEED         = 35202
+	PROJECT_PATH = /home/ubuntu/20180306/build/mask-rcnn-resnet50-ver-01.a
+	out_dir      = /home/ubuntu/20180306/results/mask-rcnn-50-gray500-02
+
+	initial_checkpoint = /home/ubuntu/20180306/results/mask-rcnn-50-gray500-02/checkpoint/00016500_model.pth
+<class 'net.resnet50_mask_rcnn.model.MaskRcnnNet'>
+
+
+** dataset setting **
+	test_dataset.split = test1_ids_gray2_53
+	len(test_dataset)  = 53
+
+** start evaluation here! **
+initial_checkpoint  = /home/ubuntu/20180306/results/mask-rcnn-50-gray500-02/checkpoint/00016500_model.pth
+test_num  = 53
+
